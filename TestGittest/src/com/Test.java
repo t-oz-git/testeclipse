@@ -19,6 +19,6 @@ public class Test {
         .forEach((s) -> { System.out.print(s + " "); });
         //結果
         // *0* *2* *8*
-
+	System.out.print("gitリモートのjavaファイルに直接この行を追記した 2023/11/01 右上のCommit changesボタン押下");
 	}
 }
